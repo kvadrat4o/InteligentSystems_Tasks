@@ -1,0 +1,11 @@
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.exe
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.deps.json
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.runtimeconfig.json
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.runtimeconfig.dev.json
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.dll
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\bin\Debug\netcoreapp3.1\01_PersonTask.pdb
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\obj\Debug\netcoreapp3.1\01_PersonTask.csprojAssemblyReference.cache
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\obj\Debug\netcoreapp3.1\01_PersonTask.AssemblyInfoInputs.cache
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\obj\Debug\netcoreapp3.1\01_PersonTask.AssemblyInfo.cs
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\obj\Debug\netcoreapp3.1\01_PersonTask.dll
+D:\IS_Interview_Tasks\PersonTask_ConsoleApp\01_PersonTask\obj\Debug\netcoreapp3.1\01_PersonTask.pdb

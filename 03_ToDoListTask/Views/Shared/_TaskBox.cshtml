@@ -1,0 +1,13 @@
+﻿@model TaskViewModel
+<div class="card col-md-4" style="width: 18rem;display:inline-block;">
+    <form asp-action="Archive" asp-controller="Home" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <h6 class="card-subtitle mb-2 text-muted">@Model.Status</h6>
+            <p class="card-text" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">@Model.Content</p>
+            <a href="@Url.Action("Edit", "Home", new { taskId = Model.Id })" class="card-link btn btn-outline-info">Edit</a>
+            <input type="submit" class="card-link btn btn-outline-warning" value="Archive" />
+        </div>
+    </form>
+</div>
